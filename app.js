@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
   function handleCardClick(e) {
     if (!e.target.classList.contains("front")) return;
 
-    let currentCard = e.target.parentElement;
+    let currentCard = e.target.parentElement.parentElement;
 
     if (!card1 || !card2) {
       if (!currentCard.classList.contains("flipped")) {
