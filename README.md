@@ -1,6 +1,11 @@
 # MatchCage
-Unfortunately, a memory game to match Nicolas Cage gifs will now be the first thing I have ever pushed forevermore. 
+A memory game to match Nicolas Cage gifs.
 
-Learning git and GitHub.
+Made with vanilla JS. 
 
-'artwork' by fcullen
+'artwork' by @fcullen
+
+## Screenshot
+
+![alt text](./match_cage.png)
+
